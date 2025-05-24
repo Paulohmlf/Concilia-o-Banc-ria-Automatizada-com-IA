@@ -24,7 +24,6 @@ Ferramenta para automatizar a conciliação bancária, classificando transaçõe
    ```
    pip install -r requirements.txt
    ```
-   *(Se não tiver um arquivo `requirements.txt`, instale manualmente:)*
    ```
    pip install pandas scikit-learn
    ```
@@ -42,7 +41,6 @@ Ferramenta para automatizar a conciliação bancária, classificando transaçõe
 - **Python 3.8+**
 - **pandas**
 - **scikit-learn**
-- *(adicione outros requisitos conforme necessário)*
 
 ## Exemplo de uso
 
